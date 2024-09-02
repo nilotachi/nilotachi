@@ -13,6 +13,9 @@ Fun facts:
     I have tons of hours in the game NBA2k. :P
     I'm a huge foodie!
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilotachi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-saglio-rossini)
+
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@cptech979706/30-nites-of-code)  
-  ![@cptech979706 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cptech979706)
+  [Check out my progress!](https://www.codedex.io/@cptech/30-nites-of-code)  
+  ![@cptech #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cptech)
