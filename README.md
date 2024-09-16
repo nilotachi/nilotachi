@@ -18,8 +18,7 @@ Fun facts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilotachi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-saglio-rossini)
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@cptech/30-nites-of-code)  
-  ![@cptech #30NitesOfCode](https://www.codedex.io/api/petStatus?user=cptech)
+ 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nilotachi&icon=2&color=11)](https://visitcount.itsvg.in)
