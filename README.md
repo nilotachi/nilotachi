@@ -5,7 +5,7 @@ About me:
 
     Born in Argentina and currently living in Brasil .
     I study Software Engineering at Uninter University. 
-    Tech enthusiast, coding since 2022.
+    Tech enthusiast, coding since 2023.
 
 Fun facts:
 
